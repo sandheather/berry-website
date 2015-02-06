@@ -4,14 +4,32 @@ html{
 }
 
 h1{
-	background-color: fce208;
+	background-color: #fce208;
 	padding: 1em 1em 0em 0em;
 	margin:0;
 	font-weight: normal;
 	font-size: 6rem;
 	font-style: normal;
-	font-family: ;
-	line-height: 1.5;
+	font-family:'Chewy', cursive;
 	color: #b60633;
 	text-align: center;
+}
+
+h2{
+	font-weight: normal;
+	font-size: 3rem;
+	font-style: normal;
+	font-family:'Chewy', cursive;
+	line-height: 1.5;
+	color:#b60633;
+}
+
+h3{
+	font-weight: normal;
+	font-size: 2.5rem;
+	font-style: normal;
+	font-family:'Chewy', cursive;
+	line-height: 1.5;
+	color:#b60633;
+
 }
