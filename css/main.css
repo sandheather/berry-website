@@ -4,7 +4,6 @@ html{
 }
 
 h1{
-	background-color: #fce208;
 	padding: 1em 1em 0em 0em;
 	margin:0;
 	font-weight: normal;
@@ -31,5 +30,63 @@ h3{
 	font-family:'Chewy', cursive;
 	line-height: 1.5;
 	color:#b60633;
+}
+
+blockquote{
 
 }
+
+figcaption{
+	font-size: 1.5em;
+	padding: 1em;
+	text-align: center;
+	color:;
+	font-style: italic;
+}
+
+figure{
+	padding: 1em 1em 1em 1em;
+	border: 2px solid #827262;
+	border-radius:10px;
+	display: inline-block;
+}
+
+p{
+	font-size: 1.5rem;
+}
+
+dl{
+	font-size: 1.5rem;
+	line-height: 1.5rem;
+}
+
+nav{
+	background-color: ;
+	text-align: center;
+}
+
+nav ul{
+	background-color: ;
+	padding: 1em 1em 1em 1em;
+	margin:0;
+	font-weight: normal;
+	font-size: 2rem;
+	font-style: normal;
+	font-family: times;
+	line-height: 1.5;
+	color: #fff;
+	list-style-type: none;
+}
+
+nav li{
+	display: inline-block;
+}
+
+nav a{
+display: inline-block;
+	padding: 0.5em 0.75em;
+	background-color: #6f2a1a;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+	}
