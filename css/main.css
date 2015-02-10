@@ -37,7 +37,7 @@ h3{
 }
 
 blockquote{
-font-size: 2rem;
+	font-size: 2.5rem;
 	font-style: italic;
 	color:#c6c41b;
 	margin-top:0;
@@ -59,9 +59,10 @@ figure{
 }
 
 p{
-	font-size: 1.70rem;
+	font-size: 2rem;
 	text-align:left;
 	padding: 0.5em 0.5em 0.5em 0.5em;
+	line-height: 1.5;
 }
 
 dl{
@@ -117,6 +118,10 @@ img{
 	width:100;
 }
 
+dl{
+	font-size: 2rem;
+	line-height: 1.5;
+}
 dd{
 	text-align: left;
 	margin:0;
@@ -125,4 +130,11 @@ dd{
 h4{
 	font-style: italic;
 	font-weight: normal;
+	font-size: 2rem;
+}
+
+footer{
+	background-color:#ffea02;
+	text-align: center;
+
 }
