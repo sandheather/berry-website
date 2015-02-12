@@ -24,7 +24,9 @@ h2{
 	color:#b60633;
 	border-top: 3px solid;
 	border-color: #ffea02;
+	padding-top: 1rem;
 	text-align: left;
+	margin-bottom: 0rem;
 }
 
 h3{
@@ -55,7 +57,8 @@ figure{
 	border: 2px solid #c6c41b;
 	border-radius:10px;
 	display: inline-block;
-	background-color:#f4f3bf
+	background-color:#f4f3bf;
+	margin: 0;
 }
 
 p{
@@ -71,12 +74,12 @@ dl{
 }
 
 nav{
-	background-color: ;
+	background-color: #ffea02;
 	text-align: center;
+	padding: 1em 0em;
 }
 
 nav ul{
-	background-color: ;
 	padding: 1em 1em 1em 1em;
 	margin:0;
 	font-weight: normal;
@@ -99,6 +102,7 @@ display: inline-block;
 	color: #fff;
 	text-decoration: none;
 	border-radius: 5px;
+
 	}
 
 a:hover{
@@ -115,7 +119,7 @@ a:hover{
 }
 
 img{
-	width:100;
+	width:100%;
 }
 
 dl{
@@ -133,8 +137,8 @@ h4{
 	font-size: 2rem;
 }
 
-footer{
+footer p{
 	background-color:#ffea02;
 	text-align: center;
-
+	padding: 2em 2em 2em 2em;
 }
