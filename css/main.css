@@ -45,6 +45,10 @@ blockquote{
 	margin-top:0;
 }
 
+cite{
+	text-align: center;
+}
+
 figcaption{
 	font-size: 1.70em;
 	padding: 1em;
