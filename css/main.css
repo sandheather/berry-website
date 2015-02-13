@@ -5,7 +5,7 @@ html{
 
 h1{
 	background-color:#ffea02;
-	padding: 1em 1em 0em 0em;
+	padding: 1em 0em 0em 0em;
 	margin:0;
 	font-weight: normal;
 	font-size: 6rem;
@@ -93,10 +93,10 @@ nav{
 }
 
 nav ul{
-	padding: 1em 1em 1em 1em;
+	padding: 1em 0em 1em 0em;
 	margin:0;
 	font-weight: normal;
-	font-size: 2rem;
+	font-size: 1.7rem;
 	font-style: normal;
 	font-family: times;
 	line-height: 1.5;
@@ -106,6 +106,7 @@ nav ul{
 
 nav li{
 	display: inline-block;
+	margin: 0.2em 0.2em 0.2em 0.2em
 }
 
 nav a{
