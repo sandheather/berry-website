@@ -43,6 +43,15 @@ blockquote{
 	font-style: italic;
 	color:#c6c41b;
 	margin-top:0;
+	text-align: center;
+}
+
+blockquote p{
+	font-size: 2.5rem;
+	font-style: italic;
+	color:#c6c41b;
+	margin-top:0;
+	text-align: center;
 }
 
 cite{
